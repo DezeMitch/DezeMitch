@@ -18,7 +18,6 @@
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:info@dezemitch.eu)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mitchel-de-graaf-159a221a4)
 [![Website](https://img.shields.io/badge/Website-dezemitch.eu-2299AA?style=flat&logo=google-chrome&logoColor=white)](https://dezemitch.eu)
-[![Visitors](https://visitor-badge.laobi.icu/badge?page_id=DezeMitch.DezeMitch)](https://github.com/DezeMitch)
 
 ---
 
