@@ -5,7 +5,7 @@
 
 # 💫 About Me:
 
-⚡ Founder of **Hexora** — web applications & Discord integrations<br>
+⚡ Founder of **DezeMitch** — web applications & Discord integrations<br>
 🚀 Head Developer at **Modora** — all-in-one Discord bot with 50+ modules<br>
 🧑‍💻 Versatile developer focused on scalable, user-focused products<br>
 📄 Passionate about **JavaScript**, **TypeScript**, **Lua**, **PHP**, and **Next.js** — with JavaScript as my main language
