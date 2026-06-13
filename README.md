@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./logo-wordmark.png" alt="DezeMitch — Your Idea. Our Project" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Mitchel</h1>
 <h3 align="center">Founder of Hexora · Discord bots & web development</h3>
 
